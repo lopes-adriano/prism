@@ -1,9 +1,12 @@
 # Prism
 
-![home](assets/screenshots/home.png "home")
-![create](assets/screenshots/create.png "create")
-![profile](assets/screenshots/profile.png "profile")
+<div align="center">
+<img src="assets/screenshots/home.png" width="250"/>
+<img src="assets/screenshots/create.png" width="250"/>
+<img src="assets/screenshots/profile.png" width="250"/>
+</div>
 
+<br>
 
 Prism é um app em React Native para pessoas compartilharem vídeos criados por inteligência artificial. Ele utiliza [appwrite](https://appwrite.io/) para armazenamento, [nativewind](https://nativewind.dev/) para estilização e [expo-router](https://expo.dev/docs/versions/latest/routing/overview/) para roteamento.
 
